@@ -1,6 +1,6 @@
 {
   "name": "@transia/xrpl-debug-sdk",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "main": "dist/npm/src/index.js",
   "files": [
